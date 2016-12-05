@@ -1,0 +1,1 @@
+Just some simple exercise to use OOP
